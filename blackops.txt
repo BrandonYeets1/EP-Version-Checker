@@ -1,4 +1,8 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<CPedModelInfo__InitDataList>
+    <residentTxd>comp_peds_generic</residentTxd>
+    <residentAnims />
+    <InitDatas>
       <Name>[NAME]</Name>
       <PropsName>[NAME_P]</PropsName>
       <ClipDictionaryName>move_m@generic</ClipDictionaryName>
@@ -6,7 +10,7 @@
       <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
       <ExpressionDictionaryName>null</ExpressionDictionaryName>
       <ExpressionName>null</ExpressionName>
-     <Pedtype>CIVMALE</Pedtype>
+     <Pedtype>[TYPE?]</Pedtype>
      <MovementClipSet>MOVE_M@TOOL_BELT@A</MovementClipSet>
      <MovementClipSets/>
      <StrafeClipSet>MOVE_PED_STRAFING</StrafeClipSet>
@@ -70,3 +74,7 @@
       	<DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
       	<DefaultRemoveRangeMultiplier value="1.00000000"/>
       	<AllowCloseSpawning value="false"/>
+    </InitDatas>
+    <txdRelationships />
+    <multiTxdRelationships />
+</CPedModelInfo__InitDataList>
