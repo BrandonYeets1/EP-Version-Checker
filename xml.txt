@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPedModelInfo__InitDataList>
+    <residentTxd>comp_peds_generic</residentTxd>
+    <residentAnims />
+    <InitDatas>
+	[ INSERT HERE ]
+    </InitDatas>
+    <txdRelationships />
+    <multiTxdRelationships />
+</CPedModelInfo__InitDataList>
